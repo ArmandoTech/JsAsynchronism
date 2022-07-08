@@ -1,0 +1,26 @@
+{
+  "name": "jsasynchronism",
+  "version": "1.0.0",
+  "description": "A JS project with asynchronism",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmandoTech/JsAsynchronism.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Armando Arenas armandoarenass@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArmandoTech/JsAsynchronism/issues"
+  },
+  "homepage": "https://github.com/ArmandoTech/JsAsynchronism#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
